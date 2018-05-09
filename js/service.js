@@ -5,4 +5,4 @@ function FilmService($http){
     this.getFilms = function(){
         return $http.get(this.url);
     }
-}
+} 
