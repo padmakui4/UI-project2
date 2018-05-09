@@ -20,4 +20,4 @@ function filmCtrl(FilmService, $sce){
     };
 
     vm.getFilms();
-}
+} 
